@@ -1,2 +1,2 @@
 # calculatorWeek6
-Calculator i built with an added feature
+Calculator I built with an added feature.
